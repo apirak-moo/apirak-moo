@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Apirak Soimalee 👋
+# Hi there, I'm Apirak Soimaree 👋
 
 ### 💻 Software Engineer | Backend & Full Stack Developer
 
