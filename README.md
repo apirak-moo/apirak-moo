@@ -10,8 +10,11 @@
   <a href="mailto:apirak.soi@outlook.com">
     <img src="https://img.shields.io/badge/Email-apirak.soi%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
-    <img src="https://img.shields.io/badge/LinkedIn-Apirak_Soimalee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/apirak-soimaree-8b87b4369">
+    <img src="https://img.shields.io/badge/LinkedIn-Apirak_Soimaree-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/apirak-moo">
+    <img src="https://img.shields.io/badge/GitHub-apirak--moo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -102,6 +105,15 @@
   - Major GPA: 3.57 | GPAX: 3.41
   - Key coursework (Grade A): Object-Oriented Programming (Basic & Advanced), System Analysis & Design, Database Management Systems, Mobile Application Development, Intelligent Systems
 - 📜 **DevSecOps Transformation & Technologies**, Skooldio (Feb 2025)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apirak-moo&show_icons=true&theme=default&hide_border=true" alt="Apirak's GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apirak-moo&hide_border=true" alt="Apirak's GitHub streak" height="165" />
+</p>
 
 ---
 
