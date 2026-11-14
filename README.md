@@ -108,15 +108,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apirak-moo&show_icons=true&theme=default&hide_border=true" alt="Apirak's GitHub stats" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=apirak-moo&hide_border=true" alt="Apirak's GitHub streak" height="165" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 I'm open to conversations about backend development, enterprise systems, and cloud infrastructure. Reach me by email or LinkedIn.
