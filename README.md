@@ -73,7 +73,7 @@
   - Design, develop, and maintain manufacturing support applications for semiconductor production, including digital check sheets, inspection workflows, X-ray lot tracking, and lot-data APIs.
   - Apply Clean Architecture, Domain-Driven Design, and CQRS to keep business rules testable and integrations with other plant services maintainable.
 
-- **Full Stack Developer (Internship)**, CNX Dev Soft Co., Ltd. *(Dec 2025 – Mar 2026)*
+- **Full Stack Developer (Internship)**, CNXDEVSOFT Co., Ltd. *(Dec 2025 – Mar 2026)*
   - Completed 76 working days of remote, client-focused development using Agile practices, Git/GitLab, and Microsoft Teams.
   - Extended an existing order-management system with new frontend features, built a website health-check monitor with Teams alerts, and fixed bugs across the stack.
 
@@ -89,7 +89,7 @@
 - **X-Ray management system**: Dashboards for WIP lot tracking, approvals, and defect ranking, with Excel export and barcode-scanner support. `C#` `Vue.js` `SQL Server`
 - **Lots service API**: Paginated REST endpoints for querying WIP lots across plant data sources, documented with Swagger/Scalar. `C#` `Kotlin` `Oracle` `SQL Server`
 
-**Client Projects at CNX Dev Soft** *(private, client work)*
+**Client Projects at CNXDEVSOFT** *(private, client work)*
 - **Order management system**: Added image input and preview, printing, and order and task filters to an existing ASP.NET Core application. `C#` `ASP.NET Core` `Alpine.js` `T-SQL`
 - **Website health-check monitor**: Monitors client websites, checks status codes and SSL validity, and sends alerts to Microsoft Teams through workflows. `Vue.js` `Teams Workflows`
 - **Backend Web API**: CMS-backed REST API with CRUD endpoints, dashboard queries, and CSV/Excel export, documented with Swagger. `C#` `ASP.NET Core` `Orchard Core` `SQL Server`
@@ -112,7 +112,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=apirak-moo&show_icons=true&theme=default&hide_border=true" alt="Apirak's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apirak-moo&hide_border=true" alt="Apirak's GitHub streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=apirak-moo&hide_border=true" alt="Apirak's GitHub streak" height="165" />
 </p>
 
 ---
